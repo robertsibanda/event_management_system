@@ -27,7 +27,7 @@ This is a FastAPI backend application for managing events, built using FastAPI a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/robertsibanda/event_management_system.git
    cd your-repo-name
 
    python -m venv venv
